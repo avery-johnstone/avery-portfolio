@@ -1,4 +1,4 @@
-# astro-art-portfolio
+# Avery Johnstone's Portfolio
 
 [![Main](https://github.com/EmaSuriano/astro-art-portfolio/actions/workflows/main.yml/badge.svg)](https://github.com/EmaSuriano/astro-art-portfolio/actions/workflows/main.yml)
 ![Dependabot Status](https://badgen.net/github/dependabot/EmaSuriano/astro-art-portfolio)
